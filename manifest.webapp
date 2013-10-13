@@ -1,12 +1,12 @@
 {
     "name": "Prueba",
     "description": "Solo una prueba",
-    "lauch_path": "./index.html",
-    "icons":{
+    "launch_path": "/index.html",
+    "icons": {
         "128": "/imagenes/icono128.png"
-    },
-    "developer":{
+      },
+    "developer": {
         "name": "Adrian y Tania"
-    },
-    "default_locale": "es"
+      },
+    "default_locale": "en"
 }
