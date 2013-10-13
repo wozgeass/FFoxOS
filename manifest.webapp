@@ -6,11 +6,7 @@
         "128": "/img/icon-128.png"
     },
     "developer":{
-        "name":{
-            "Adrian Perez Dominguez"
-            "Tania Lucero Marin"
-        }
+        "name": "Adrian y Tania"
     },
     "default_locale": "es"
-    
 }
