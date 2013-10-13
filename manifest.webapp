@@ -1,0 +1,16 @@
+{
+    "name": "Prueba",
+    "description": "Solo una prueba",
+    "lauch_path": "/index.html",
+    "icons":{
+        "128": "/img/icon-128.png"
+    },
+    "developer":{
+        "name":{
+            "Adrian Perez Dominguez"
+            "Tania Lucero Marin"
+        }
+    },
+    "default_locale": "es"
+    
+}
