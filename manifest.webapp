@@ -1,9 +1,9 @@
 {
     "name": "Prueba",
     "description": "Solo una prueba",
-    "lauch_path": "/index.html",
+    "lauch_path": "./index.html",
     "icons":{
-        "128": "/img/icon-128.png"
+        "128": "/imagenes/icono128.png"
     },
     "developer":{
         "name": "Adrian y Tania"
